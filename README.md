@@ -8,7 +8,7 @@ Data Analysis: The software may collect data from various sources such as energy
 
 Weather forecasting: The software may use weather forecasting data to predict the effect of weather conditions on building energy consumption.
 
-Machine learning algorithms: The software may use machine learning algorithms to predict future energy loads based on historical data, patterns, and trends.
+Machine learning algorithms:The software may use machine learning algorithms to predict future energy loads based on historical data, patterns, and trends.
 
 User interface: Building energy load prediction software may have a user-friendly interface, allowing users to visualize energy usage data and make informed decisions about energy management.
 
