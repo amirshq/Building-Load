@@ -12,6 +12,6 @@ Machine learning algorithms:The software may use machine learning algorithms to 
 
 User interface: Building energy load prediction software may have a user-friendly interface, allowing users to visualize energy usage data and make informed decisions about energy management.
 
-Optimization tools: Some software may offer optimization tools that suggest ways to reduce energy consumption and costs.
+Optimization tools:Some software may offer optimization tools that suggest ways to reduce energy consumption and costs.
 
 Overall, building energy load prediction software can help building managers and owners to make informed decisions about energy management, improve energy efficiency, and reduce energy costs.
