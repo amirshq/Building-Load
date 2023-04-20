@@ -10,7 +10,7 @@ Weather forecasting: The software may use weather forecasting data to predict th
 
 Machine learning algorithms:The software may use machine learning algorithms to predict future energy loads based on historical data, patterns, and trends.
 
-User interface: Building energy load prediction software may have a user-friendly interface, allowing users to visualize energy usage data and make informed decisions about energy management.
+User interface: Building energy load prediction software may have a user-friendly interface, allowing users to visualize energy usage data and make informed decisions about energy management
 
 Optimization tools:Some software may offer optimization tools that suggest ways to reduce energy consumption and costs.
 
