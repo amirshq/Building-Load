@@ -6,12 +6,12 @@ Some of the key features of building energy load prediction software may include
 
 Data Analysis: The software may collect data from various sources such as energy meters, weather stations, building automation systems, and occupancy sensors to analyze energy usage patterns.
 
-Weather forecasting: The software may use weather forecasting data to predict the effect of weather conditions on building energy consumption.
+Weather forecasting: The software may use weather forecasting data to predict the effect of weather conditions on building energy consumption
 
 Machine learning algorithms:The software may use machine learning algorithms to predict future energy loads based on historical data, patterns, and trends.
 
 User interface: Building energy load prediction software may have a user-friendly interface, allowing users to visualize energy usage data and make informed decisions about energy management
 
-Optimization tools:Some software may offer optimization tools that suggest ways to reduce energy consumption and costs.
+Optimization tools:Some software may offer optimization tools that suggest ways to reduce energy consumption and costs
 
 Overall, building energy load prediction software can help building managers and owners to make informed decisions about energy management, improve energy efficiency, and reduce energy costs.
